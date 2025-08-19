@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/00c79554ac174c8abe59b5cef61446fc/artifacts
+end_time: 1755600682609
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00c79554ac174c8abe59b5cef61446fc
+run_name: dashing-skunk-600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755600682490
+status: 3
+tags: []
+user_id: srees
